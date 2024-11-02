@@ -25,7 +25,7 @@
 
 ## Немного о себе
 
-1. Пишу на Python (FastAPI, Flask), C++
-2. Знаю еще C#
+1. Пишу на Python (FastAPI, Flask, Django), C++
+2. Знаю еще C#, SQL (PostgreSQL), Docker (немного)
 3. Учусь на 2 курсе ФКН ПИ
 4. Вместе с этим проектом передам свой GitHub (https://github.com/Davonchik)
